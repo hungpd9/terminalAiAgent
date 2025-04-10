@@ -16,7 +16,7 @@ A terminal-based application that uses an AI Agent (e.g., Google Gemini API) to 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/terminal-ai-agent.git
+   git clone https://github.com/yourusername/terminalAiAgent.git
    cd terminal-ai-agent
    ```
 
